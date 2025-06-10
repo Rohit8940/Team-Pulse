@@ -21,12 +21,6 @@ const formFields = {
       label: "Username",
       inputProps: { required: true },
     },
-    lastname: {
-      order: 1,
-      placeholder: "Choose a username",
-      label: "Username",
-      inputProps: { required: true },
-    },
     email: {
       order: 1,
       placeholder: "Enter your email address",
