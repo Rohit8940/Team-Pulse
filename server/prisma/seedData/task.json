@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Task 1",
-    "description": "Design the main module.",
+    "description": "Kill all the terrorists",
     "status": "Work In Progress",
     "priority": "Urgent",
     "tags": "Design",
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "title": "Task 3",
-    "description": "Develop renewable energy solutions.",
+    "description": "Retreat and go to a safe distance",
     "status": "Work In Progress",
     "priority": "Urgent",
     "tags": "Development",
@@ -80,7 +80,7 @@
   {
     "id": 7,
     "title": "Task 7",
-    "description": "AI optimization for golf equipment.",
+    "description": "AI optimization for team pulse.",
     "status": "Work In Progress",
     "priority": "Urgent",
     "tags": "Optimization",

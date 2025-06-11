@@ -1,29 +1,29 @@
 [
   {
     "id": 1,
-    "name": "Apollo",
-    "description": "A space exploration project.",
+    "name": "Operation Sindoor",
+    "description": "An Indian attack on terrorists",
     "startDate": "2023-01-01T00:00:00Z",
     "endDate": "2023-12-31T00:00:00Z"
   },
   {
     "id": 2,
-    "name": "Beacon",
+    "name": "ISRO Project",
     "description": "Developing advanced navigation systems.",
     "startDate": "2023-02-01T00:00:00Z",
     "endDate": "2023-10-15T00:00:00Z"
   },
   {
     "id": 3,
-    "name": "Catalyst",
-    "description": "A project to boost renewable energy use.",
+    "name": "Enola Gay",
+    "description": "Fatman and Little Boy Dropped",
     "startDate": "2023-03-05T00:00:00Z",
     "endDate": "2024-03-05T00:00:00Z"
   },
   {
     "id": 4,
-    "name": "Delta",
-    "description": "Delta project for new software development techniques.",
+    "name": "Bhaghidaari",
+    "description": "An Expense Management App",
     "startDate": "2023-01-20T00:00:00Z",
     "endDate": "2023-09-20T00:00:00Z"
   },
@@ -43,8 +43,8 @@
   },
   {
     "id": 7,
-    "name": "Golf",
-    "description": "Development of new golf equipment using AI.",
+    "name": "Team-Pulse",
+    "description": "Development of project management equipment using AI.",
     "startDate": "2023-05-10T00:00:00Z",
     "endDate": "2023-12-10T00:00:00Z"
   },
