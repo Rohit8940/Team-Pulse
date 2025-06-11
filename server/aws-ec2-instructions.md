@@ -57,13 +57,13 @@
 - **Clone your code repository from GitHub:**
 
   ```
-  git clone [your-github-link]
+  git clone https://github.com/Rohit8940/Team-Pulse
   ```
 
 - **Navigate to the directory and install packages:**
 
   ```
-  cd project-management
+  cd Team-Pulse
   ```
 
   ```
